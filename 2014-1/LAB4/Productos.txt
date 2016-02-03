@@ -1,0 +1,2104 @@
+9947693
+Radio CD
+3614.2
+Electrodomesticos.txt
+17804
+PIROXICAM 30 GM CRA
+ 10.2
+AlamacenMedicinas.txt
+5071383
+Rack Fijo 32/60"
+2618.0
+Electrodomesticos.txt
+34066
+SULINDACO 200MG/20 TAB
+ 51.85
+AlamacenMedicinas.txt
+76247
+FLUOCINOLONA CREMA 30G
+ 59.5
+AlamacenMedicinas.txt
+55021
+AMOXICILINA 500MG/5ML SUSP
+ 82.45
+AlamacenMedicinas.txt
+40645
+VERAPAMILO 80 MG/20 TAB
+ 4.25
+AlamacenMedicinas.txt
+48557
+NAPROXENO SODICO 100/2.5 SUSP
+ 59.5
+AlamacenMedicinas.txt
+57505
+ESPIRONOLACTONA 25MG 20T
+ 43.35
+AlamacenMedicinas.txt
+8694258
+Cocina a gas Toscana
+2831.2
+Electrodomesticos.txt
+62008
+LISINOPRIL T/30 10 MG
+ 17.85
+AlamacenMedicinas.txt
+34070
+FEXOFENADINA C/10 180MG
+ 73.1
+AlamacenMedicinas.txt
+77358
+LOPERAMIDA T/12 2MG
+ 61.2
+AlamacenMedicinas.txt
+7196489
+Conservadora Exibidora CMVE-250
+2064.9
+Electrodomesticos.txt
+24522
+LEVOFLOXACINO 500MG C/7 TAB
+ 43.35
+AlamacenMedicinas.txt
+6125136
+Impresora Laser EPSON
+4139.5
+Electrodomesticos.txt
+461089
+POLVO PARA HORNEAR REXAL_15KILOS
+350.22
+Abarrotes.txt
+4149027
+Tablet Xperia Z
+3843.7
+Electrodomesticos.txt
+855582
+ZENZO BAR FRESA_66GR
+ 4.05
+Abarrotes.txt
+22553
+FLUCINOLONA+NEOMICINA CRA 30G
+ 39.1
+AlamacenMedicinas.txt
+6702432
+DVD DVM-L79
+3067.6
+Electrodomesticos.txt
+454687
+NESCAFE DOLCA_200GR
+ 42.01
+Abarrotes.txt
+375755
+CROQUETAS PEDIGREE BENEFUL_10.1KG
+270.88
+Abarrotes.txt
+8794314
+Cocina a gas Fassina
+2444.9
+Electrodomesticos.txt
+213718
+TE DE MANZANILLA McCORMICK_100/1.2GR
+ 55.18
+Abarrotes.txt
+6606354
+Galaxy Gear
+3409.2
+Electrodomesticos.txt
+1170875
+Cocina a gas Plermo Quarzo
+3232.1
+Electrodomesticos.txt
+24733
+CALCIO+MAGNESIO 30T
+ 59.5
+AlamacenMedicinas.txt
+40862
+YODOPOVIDONA 120ML
+ 76.5
+AlamacenMedicinas.txt
+8982028
+Puntero Laser
+190.48
+Electrodomesticos.txt
+889594
+CEREZA ROJA C/TALLO NATURES PRIDE_4.28
+200.92
+Abarrotes.txt
+70225
+CEFTRIAXONA 1.0GR IM G I
+ 47.6
+AlamacenMedicinas.txt
+764029
+YOGHURT LALA LIGHT_240GR
+ 7.04
+Abarrotes.txt
+732312
+CHILE PUYA DE LOS ALTOS_100GR
+ 10.85
+Abarrotes.txt
+53166
+ASTEMIZOL SUSP 200MG
+ 5.95
+AlamacenMedicinas.txt
+113777
+JUGO VALLE FRUT CITRUS_12/250ML
+ 50.49
+Abarrotes.txt
+2237756
+Cocina a gas Leganza INOX
+1506.8
+Electrodomesticos.txt
+149792
+ACHIOTE LA EXTRA_1KG
+ 45.54
+Abarrotes.txt
+64347
+DIFENHIDRAMINA 25MG C30
+ 65.45
+AlamacenMedicinas.txt
+8563181
+Ventilador circular
+809.77
+Electrodomesticos.txt
+4068503
+Cocina a gas Roma
+1221.0
+Electrodomesticos.txt
+152164
+ALUBIAS ANTIQUA_540GR
+ 17.85
+Abarrotes.txt
+558293
+REBANADAS BIMBO_110GR
+ 8.73
+Abarrotes.txt
+5767505
+Lavadora Modelo Aquamatic
+3572.3
+Electrodomesticos.txt
+170400
+SANDWICH COMBINADA_3 FLORES_150GR
+ 8.23
+Abarrotes.txt
+231958
+TORTILLAS DE MAIZ_1KG
+ 14.93
+Abarrotes.txt
+47734
+MICRODACYN 60 SOL 240ML
+ 39.1
+AlamacenMedicinas.txt
+884463
+MAIZ POZOLERO TEASDALE_3.06KG
+ 50.55
+Abarrotes.txt
+86158
+SENOSIDOS A y B C20
+ 47.6
+AlamacenMedicinas.txt
+46919
+VITAMINA C C20 TAB 100MG
+ 5.95
+AlamacenMedicinas.txt
+62302
+BEZAFIBRATO 200MG C/30TAB
+ 41.65
+AlamacenMedicinas.txt
+3401627
+Cocina a gas Ijasmin
+3424.4
+Electrodomesticos.txt
+26360
+VITAMINAS A C Y D 3AMP/3ML ING
+ 8.5
+AlamacenMedicinas.txt
+226361
+YOPLAIT BATIDO CEREALES DURAZNO_1KG
+ 28.91
+Abarrotes.txt
+44253
+PROGESTERONA+ESTRADIOL 50/5 AMP
+ 36.55
+AlamacenMedicinas.txt
+61508
+DEXTROMETORFANO 300MG JBE 120 ML
+ 4.25
+AlamacenMedicinas.txt
+407424
+DONAS BIMBO_157.5GR_6 PZA PROMOCION
+ 10.77
+Abarrotes.txt
+695116
+BARRA DE HOGUELAS DE ARROZ Y TRIGO_24 GR
+ 4.83
+Abarrotes.txt
+4779353
+Terma Milenium
+2960.5
+Electrodomesticos.txt
+26506
+ITRACONAZOL 100 MG C/15
+ 28.05
+AlamacenMedicinas.txt
+34080
+ELECTROLIT FRESA 500ML
+ 60.35
+AlamacenMedicinas.txt
+955895
+FLANAX_20/275GR
+139.55
+Abarrotes.txt
+41403
+VITAMINAS Y MINERALES 30-30T
+ 43.35
+AlamacenMedicinas.txt
+68539
+METENAMINA 30T 500MG
+ 5.1
+AlamacenMedicinas.txt
+8008043
+Lavadora EcoBubble
+2400.7
+Electrodomesticos.txt
+61211
+OFLOXACINO 400 MG C/8
+ 78.2
+AlamacenMedicinas.txt
+2950607
+Cocina Electronica Convencion
+3525.0
+Electrodomesticos.txt
+85641
+TAMOXIFENO 10MG 30T
+ 28.9
+AlamacenMedicinas.txt
+9502591
+Lavadora WA
+1320.0
+Electrodomesticos.txt
+753850
+FRIJOL AMARILLO KG
+ 39.82
+Abarrotes.txt
+526833
+YOGHURT LALA FRESA_240GR
+ 6.68
+Abarrotes.txt
+3695915
+Cocina a gas Murano
+1101.4
+Electrodomesticos.txt
+97465
+GLIBENCLAMIDA 5 MG C/50
+ 4.25
+AlamacenMedicinas.txt
+1592454
+Sillon masajeador
+ 69.57
+Electrodomesticos.txt
+26920
+HIDRALAZINA 20T 10MG
+ 45.05
+AlamacenMedicinas.txt
+13364
+MULTIVITAMINAS Y MINERALES C60
+ 13.6
+AlamacenMedicinas.txt
+147944
+TE LIPTON NATURAL_100/226GR
+ 71.68
+Abarrotes.txt
+79996
+LANSOPRAZOL 15 MG C/14
+ 31.45
+AlamacenMedicinas.txt
+749271
+SAZONADOR SPECIAL VALUE_453G
+ 28.24
+Abarrotes.txt
+1777018
+Radio AM/FM stereo RMU-51C
+3013.7
+Electrodomesticos.txt
+27016
+ACECLOFENACO 100MG 10T
+ 51
+AlamacenMedicinas.txt
+77466
+RAMIPRIL 16 TAB/5 MG
+ 5.95
+AlamacenMedicinas.txt
+701044
+CORAZON DE ALCACHOFA SAN MIGUEL_1.36KG
+117.36
+Abarrotes.txt
+920857
+CALDO DE POLLO CHEF_3KG
+ 72.25
+Abarrotes.txt
+95196
+DIGOXINA 0.250 MG C/24
+ 62.05
+AlamacenMedicinas.txt
+33200
+GLUCOSAMINA 30C 500MG
+ 76.5
+AlamacenMedicinas.txt
+249901
+HARINA MAZATL_5KG
+ 56.07
+Abarrotes.txt
+16299
+AZITROMICINA 500MG C/3T
+ 49.3
+AlamacenMedicinas.txt
+84766
+CIPROFLOXACINO SOL.OFT 5MG
+ 79.9
+AlamacenMedicinas.txt
+865896
+YOGHURT P/BEBER DURAZNO LIGHT YOP_250GR
+ 7.18
+Abarrotes.txt
+11370
+KETOROLACO 4T 30MG SUBLINGUAL
+ 2.55
+AlamacenMedicinas.txt
+7955991
+Home Theater E4100
+2101.0
+Electrodomesticos.txt
+16681
+SIBUTRAMINA 10 MG C15
+ 22.1
+AlamacenMedicinas.txt
+383110
+FRIJOLES REFRITOS ISADORA_430GR
+ 13.28
+Abarrotes.txt
+22842
+AMIKACINA 500MG C/1 AMP
+ 47.6
+AlamacenMedicinas.txt
+160432
+SALSA DE CHILE HABANERO ROJO_260GR
+ 14.93
+Abarrotes.txt
+31883
+ACIDO NALIDIXICO SUSP
+ 67.15
+AlamacenMedicinas.txt
+85325
+AMOXICILINA 250MG C12
+ 56.1
+AlamacenMedicinas.txt
+72495
+ACIDO GLUTAMICO 600 MG C/100
+ 43.35
+AlamacenMedicinas.txt
+30220
+AMOXICILINA+BROMEXINA C12
+ 39.95
+AlamacenMedicinas.txt
+7031039
+Secadora de Ropa
+2765.6
+Electrodomesticos.txt
+9976345
+Deshumedecedor DM-189H
+3400.3
+Electrodomesticos.txt
+91282
+LEVONORGESTREL 1.5MG /1 TAB
+ 6.8
+AlamacenMedicinas.txt
+7168701
+Olla arrocera
+2520.8
+Electrodomesticos.txt
+32486
+BENZOCAINA FRAMBUESA C/24
+ 24.65
+AlamacenMedicinas.txt
+249015
+MIEL DE ABEJA VIRGEN_1KG(vitrolero cua)
+120.92
+Abarrotes.txt
+70113
+TETRACICLINA 250MG 10T
+ 30.6
+AlamacenMedicinas.txt
+81062
+PAROXETINA T/10 20MG
+ 9.35
+AlamacenMedicinas.txt
+872605
+PAN DE MUERTO GRANDE
+ 25.42
+Abarrotes.txt
+2122845
+Televisor Serie LED R555A
+3736.7
+Electrodomesticos.txt
+6518013
+Cocina a gas FFG3047SL
+2275.1
+Electrodomesticos.txt
+8109935
+Rack Giratorio 26/32"
+943.45
+Electrodomesticos.txt
+6650577
+Congeladora Horizontal 252 Lts.
+780.30
+Electrodomesticos.txt
+49644
+HIDROCORTISONA CRA 30GR
+ 73.95
+AlamacenMedicinas.txt
+860677
+VINAGRE BLANCO CLEMENTE JACQUES_3.8LT
+ 24.29
+Abarrotes.txt
+9620449
+Tablet Cardle
+816.43
+Electrodomesticos.txt
+391315
+YOGHURT FRESA CON GRANOLA CHELSY_240GR
+ 6.72
+Abarrotes.txt
+44215
+DICICLOVERINA 10MG 30T
+ 33.15
+AlamacenMedicinas.txt
+96554
+PIROXICAM 20MG T20
+ 4.25
+AlamacenMedicinas.txt
+9943827
+Reproductor Multimedia Touch Screen
+719.56
+Electrodomesticos.txt
+79189
+CLORFENAMINA 4MG T20
+ 73.1
+AlamacenMedicinas.txt
+17790
+DICLOFENACO 100MG 20T
+ 17
+AlamacenMedicinas.txt
+667210
+PALOMITAS POFETS FLAMIN HOT_28GR
+ 6.88
+Abarrotes.txt
+90300
+FLUOXETINA 20 MG C/14
+ 40.8
+AlamacenMedicinas.txt
+223402
+ELOTE DORADO DEL MONTE_225GR
+ 5.92
+Abarrotes.txt
+8814293
+Rapiducha Premiun
+2784.3
+Electrodomesticos.txt
+8396560
+Impresora Laser Mutifuncion Monocromatica
+1203.1
+Electrodomesticos.txt
+385055
+CONCHAS BIMBO_120GR
+ 15.55
+Abarrotes.txt
+865450
+CORAZONES DE OREJONA PZA
+ 10.79
+Abarrotes.txt
+9158323
+Terma a gas
+2341.0
+Electrodomesticos.txt
+168856
+YOGHURT P/BEBER FRESA DANONE_250GR
+ 6.46
+Abarrotes.txt
+7459718
+Horno Microondas de Conveccion Cello
+2390.8
+Electrodomesticos.txt
+43222
+AMBROXOL GOTAS 30ML
+ 11.05
+AlamacenMedicinas.txt
+36822
+CLARITROMICINA 125MG SUSP
+ 9.35
+AlamacenMedicinas.txt
+2112387
+Ventilador de techo
+1613.1
+Electrodomesticos.txt
+55813
+SALBUTAMOL 4MG T30
+ 22.95
+AlamacenMedicinas.txt
+58200
+FLUCONAZOL 150MG. 1C
+ 56.1
+AlamacenMedicinas.txt
+18672
+TINIDAZOL 500MG 8T
+ 15.3
+AlamacenMedicinas.txt
+6599310
+Mini componente GPX33
+3643.3
+Electrodomesticos.txt
+55439
+FUMARATO FERROSO SUSP 120ML
+ 72.25
+AlamacenMedicinas.txt
+2410338
+Impresora Mutifuncional Inalambricar
+4067.8
+Electrodomesticos.txt
+60685
+NITROFURANTOINA C40 100MG
+ 79.9
+AlamacenMedicinas.txt
+43633
+ERITROMICINA T 250 MG C/20
+ 39.1
+AlamacenMedicinas.txt
+65536
+NEOM/POLIMIX/GRAMIC 15 ML GTS
+ 1.7
+AlamacenMedicinas.txt
+27447
+OXIDO DE ZINC TUBO PASTA 30GR
+ 59.5
+AlamacenMedicinas.txt
+88681
+NIFEDIPINO 30 MG 30 CPS
+ 53.55
+AlamacenMedicinas.txt
+450607
+LECHE YAQUI DESLACTOSADA_1LT
+ 19.31
+Abarrotes.txt
+835242
+EMPANIZADOR CONTADINA TRADICIONAL_283GR
+ 16.50
+Abarrotes.txt
+47697
+CLINDAMICINA 300 MG C/16
+ 14.45
+AlamacenMedicinas.txt
+703519
+GELATINA DANY LIMON_125GR
+ 5.38
+Abarrotes.txt
+38648
+PENICILINA V POT 400000U 20T
+ 69.7
+AlamacenMedicinas.txt
+523750
+ANIS VERDE
+ 95.95
+Abarrotes.txt
+92560
+EXALVER FENILEFRINA PED. 30 ML
+ 28.9
+AlamacenMedicinas.txt
+4827968
+Refrigeradora 484 litros
+2452.9
+Electrodomesticos.txt
+852366
+SALSA VALENTINA_24/370ML
+173.24
+Abarrotes.txt
+446247
+SABRITAS ORIGINAL SAL_490GR
+ 63.30
+Abarrotes.txt
+987549
+LECHUGA ROMANA
+207.79
+Abarrotes.txt
+70116
+LACTULOSA 125ML
+ 23.8
+AlamacenMedicinas.txt
+710879
+NESQUIK CHOCOLATE_200GR
+ 13.51
+Abarrotes.txt
+7824299
+Cocina a gas Fridare
+2287.5
+Electrodomesticos.txt
+702149
+ACHIOTE MARIN_130GR
+ 8.71
+Abarrotes.txt
+36622
+TEOFILINA 20 TAB/100 MG
+ 57.8
+AlamacenMedicinas.txt
+6757373
+Cocina Empotrable Premio Plus
+4206.1
+Electrodomesticos.txt
+431353
+VUALA CAJETA_84GR
+ 5.25
+Abarrotes.txt
+7433036
+Cocina Empotrable Klimatica
+4086.3
+Electrodomesticos.txt
+6632617
+Televisor Plasma 60"
+4121.0
+Electrodomesticos.txt
+543902
+ACEITE DE OLIVO ARGEL_20LTS
+1400.0
+Abarrotes.txt
+16359
+NAPROXENO 250 MG TAB C/30
+ 75.65
+AlamacenMedicinas.txt
+74680
+FENITOINA T50 100MG
+ 56.1
+AlamacenMedicinas.txt
+75565
+MICONAZOL 20 GR CRA
+ 46.75
+AlamacenMedicinas.txt
+404175
+GELATINA DE LECHE VAINILLA DANETTE_100GR
+ 5.13
+Abarrotes.txt
+54692
+NAFAZOLINA SOL OFT 15 ml
+ 28.9
+AlamacenMedicinas.txt
+722370
+CHIPS_3 QUESOS BARCEL_170GR
+ 26.99
+Abarrotes.txt
+320223
+CORNETO CLASSIC LOVE
+ 19.45
+Abarrotes.txt
+91653
+SAL DE UVAS PICOT
+ 40.8
+AlamacenMedicinas.txt
+1365331
+Refrigeradora ECOTT 465 IX
+1213.7
+Electrodomesticos.txt
+81960
+CEFALEXINA 500MG C/20 CAP
+ 81.6
+AlamacenMedicinas.txt
+142053
+BARRA BRAN FRUT FRESA AVENA_48GR
+ 7.76
+Abarrotes.txt
+224399
+TORTILLAS DE HARINA DEL HOGAR_15PZAS
+ 17.44
+Abarrotes.txt
+692429
+MOLE SURTIDO CON ESPECIAS_250GR
+ 25.11
+Abarrotes.txt
+1941510
+Cocina a gas FFG3011LB
+2672.3
+Electrodomesticos.txt
+8708601
+Autoradio XAV-601 BT
+562.51
+Electrodomesticos.txt
+823675
+JUGO DE UVA MINUTE MAID_200ML
+ 4.39
+Abarrotes.txt
+34027
+DANAZOL 100MG 50T
+ 79.05
+AlamacenMedicinas.txt
+88994
+FENITOINA SODICA 7.5MG 120ML
+ 39.1
+AlamacenMedicinas.txt
+7478957
+Refrigeradora ECOTT 423 IXL
+861.70
+Electrodomesticos.txt
+30796
+PROPANOLOL 40 MG C/20 TAB
+ 54.4
+AlamacenMedicinas.txt
+199951
+MANGO ECUATORIANO
+ 16.50
+Abarrotes.txt
+70807
+LINCOMICINA 600 MG INY C/3
+ 22.95
+AlamacenMedicinas.txt
+280253
+PAPA EN CUBOS DEL FUERTE_12/380GR.
+ 9.53
+Abarrotes.txt
+5512261
+Cocina a gas Trento
+3087.8
+Electrodomesticos.txt
+92628
+KETOPROFENO 100MG C15
+ 45.9
+AlamacenMedicinas.txt
+57036
+OXOLAMINA JBE 100ML
+ 38.25
+AlamacenMedicinas.txt
+14962
+HIERRO DEXTRANO AMP4
+ 46.75
+AlamacenMedicinas.txt
+17845
+GINKO YANG CAPS C/30
+ 5.1
+AlamacenMedicinas.txt
+181575
+SAL BAJA PACIFIC BOLSA_1KGR
+ 5.26
+Abarrotes.txt
+353857
+PAPATINAS CHILIX_25GR
+ 4.71
+Abarrotes.txt
+1395180
+Refrigeradora 322 litros
+2903.1
+Electrodomesticos.txt
+547673
+LIMONADA H2O_250ML
+ 8.58
+Abarrotes.txt
+6816719
+Secadora de pelo
+3604.6
+Electrodomesticos.txt
+60509
+AMPICILINA 125MG SUSP 90ML
+ 58.65
+AlamacenMedicinas.txt
+245621
+LECHE LALA SEMI DESLACTOSADA_1LT
+ 16.98
+Abarrotes.txt
+28992
+ALUMUMINIO+MAGNESIO SUSP 240ML
+ 64.6
+AlamacenMedicinas.txt
+383046
+YOGHURT P/BEBER LACTIGURT COCO_250G
+ 9.87
+Abarrotes.txt
+90198
+NITROFURAL 6MG 6/OV
+ 44.2
+AlamacenMedicinas.txt
+65667
+SUBSALICILATO/BISMUTO SUSP 120ML
+ 61.2
+AlamacenMedicinas.txt
+33311
+ALBENDAZOL 200MG C/6 TAB
+ 20.4
+AlamacenMedicinas.txt
+16055
+AMBROXOL C/20 TAB
+ 45.9
+AlamacenMedicinas.txt
+5024008
+Lavavajilla
+655.78
+Electrodomesticos.txt
+94415
+PRAVASTATINA 10 MG C/15
+ 68.85
+AlamacenMedicinas.txt
+5863193
+Cocina a gas Ingenious
+2779.4
+Electrodomesticos.txt
+305514
+NESCAFE VAINILLA FRESCA_25GR
+ 6.88
+Abarrotes.txt
+644797
+CHAMYTO BIG_114ML
+ 7.58
+Abarrotes.txt
+160607
+TOSTILOCOS PREPARADOS
+ 25.53
+Abarrotes.txt
+9099837
+Lavadora Tecnologia Wobbie
+1979.9
+Electrodomesticos.txt
+28409
+RIFAMPICINA 300 MG C/16 CAP
+ 4.25
+AlamacenMedicinas.txt
+7834982
+Horno Microondas 0.7 p3
+1352.7
+Electrodomesticos.txt
+9754827
+Refrigeradora Top Mount
+1784.2
+Electrodomesticos.txt
+72969
+ISOSORBIDE 10MG T/20
+ 58.65
+AlamacenMedicinas.txt
+831237
+YOGHURT FRESA NESTLE_1KG
+ 23.27
+Abarrotes.txt
+93578
+SUCRALFATO 40 TAB/1G
+ 55.25
+AlamacenMedicinas.txt
+30690
+VITAMINAS EMBARAZO 9 MESES C30
+ 41.65
+AlamacenMedicinas.txt
+2384285
+Galaxy Tab 3
+3290.9
+Electrodomesticos.txt
+507633
+PASTILLA XL3.
+ 4.55
+Abarrotes.txt
+685016
+SABRITAS CASERAS JALAPENO_42GR
+ 9.66
+Abarrotes.txt
+63555
+FAMOTIDINA 20MG 30C
+ 43.35
+AlamacenMedicinas.txt
+2967729
+Cocina a gas Kristel
+2850.9
+Electrodomesticos.txt
+80839
+CARBAMAZEPINA 120ML SUSP
+ 51
+AlamacenMedicinas.txt
+2650119
+Cocina Empotrable Klimatica
+2716.1
+Electrodomesticos.txt
+40997
+ELECTROLIT PED FRESA 625ML
+ 41.65
+AlamacenMedicinas.txt
+67784
+LOSARTAN 50MG C/10T
+ 73.95
+AlamacenMedicinas.txt
+2274789
+Televisor SMART TV
+3303.0
+Electrodomesticos.txt
+98261
+ACICLOVIR 200 MG C/25 CPR
+ 70.55
+AlamacenMedicinas.txt
+6005732
+Televisor 3D
+604.47
+Electrodomesticos.txt
+3707286
+Refrigeradora cap. 415 litros
+2776.0
+Electrodomesticos.txt
+67415
+FINASTERIDA 5MG 30T
+ 52.7
+AlamacenMedicinas.txt
+203484
+PULPA DE CIRUELA_4KG
+150.52
+Abarrotes.txt
+898006
+TORTILLAS DE HARINA DEL HOGAR_22P./840GR
+ 19.07
+Abarrotes.txt
+80830
+COMPLEJO B T30
+ 78.2
+AlamacenMedicinas.txt
+70024
+METILDOPA 250 MG 30 TAB
+ 68.85
+AlamacenMedicinas.txt
+49685
+PINAVERIO BROMURO DE 100 MG 14T
+ 45.05
+AlamacenMedicinas.txt
+4130226
+Friobar
+3463.1
+Electrodomesticos.txt
+6944384
+Parlantes Bluetooth
+805.22
+Electrodomesticos.txt
+7371017
+Tablets MW 0731
+2599.7
+Electrodomesticos.txt
+867317
+AZUCAR ZULKA REFINADA_10/1KGR
+ 22.62
+Abarrotes.txt
+1164620
+Aire acondicionado tipo split
+1873.4
+Electrodomesticos.txt
+72061
+DEFLAZACORT 30MG 10T
+ 51
+AlamacenMedicinas.txt
+240470
+ZAPOTE
+ 28.39
+Abarrotes.txt
+509802
+POLVO PARA HORNEAR REXAL_500GR
+ 32.56
+Abarrotes.txt
+5787332
+Impresora Led Color
+2517.6
+Electrodomesticos.txt
+447918
+PAN P/HAMBURGUESA PERLA_600GR
+ 28.54
+Abarrotes.txt
+2352558
+Horno Microondas MS2042D
+2674.2
+Electrodomesticos.txt
+527033
+PAPAYA
+ 20.99
+Abarrotes.txt
+81333
+CARNITINA C/30
+ 40.8
+AlamacenMedicinas.txt
+8666529
+Horno Empotrable Electrico
+1102.6
+Electrodomesticos.txt
+53084
+MINOCICLINA 100MG 10T
+ 0.85
+AlamacenMedicinas.txt
+60086
+METAMISOL 500 MG T10
+ 23.8
+AlamacenMedicinas.txt
+76238
+BEZOCAINA 10GR GEL
+ 56.95
+AlamacenMedicinas.txt
+79851
+CEFOTAXIMA 1GR IM
+ 84.15
+AlamacenMedicinas.txt
+4191525
+Refrigeradora Puertas Mágicas
+2700.9
+Electrodomesticos.txt
+31389
+BETAMETASONA 4 MG/ML
+ 52.7
+AlamacenMedicinas.txt
+52072
+BROMOCRIPTINA 2.5MG C/14TAB
+ 63.75
+AlamacenMedicinas.txt
+504552
+MAIZENA NATURAL_750GR
+ 43.62
+Abarrotes.txt
+980732
+LICUADO LALA CIRUELA PASA Y NUEZ_240GR
+ 10.89
+Abarrotes.txt
+3388853
+Deshumedecedor DM-191
+4087.1
+Electrodomesticos.txt
+49157
+RANITIDINA 300 MG C/10
+ 66.3
+AlamacenMedicinas.txt
+8076172
+Congeladora Horizontal 364 Lts.
+3689.6
+Electrodomesticos.txt
+2057488
+Ventilador de pared
+1679.6
+Electrodomesticos.txt
+961423
+YOGHURT BIOBALANCE NUEZ Y FRU.SECOS_250G
+ 8.83
+Abarrotes.txt
+1113669
+Refrigeradora cap. 220 litros
+1239.3
+Electrodomesticos.txt
+8925815
+Audifonos
+1619.8
+Electrodomesticos.txt
+5730580
+Mini componente ESX8
+1582.2
+Electrodomesticos.txt
+55701
+EUCALIPTO,GUAYACOL PERLAS30
+ 46.75
+AlamacenMedicinas.txt
+951911
+PASTILLA PEPTO BISMOL
+ 3.15
+Abarrotes.txt
+4789109
+Parlantes inalambricos
+3439.4
+Electrodomesticos.txt
+6290040
+Parlantes portatiles SOUNDSHOOTER
+3703.3
+Electrodomesticos.txt
+708678
+PASTA DE FIDEOS CON POLLO KNORR_95GR
+ 8.56
+Abarrotes.txt
+4066034
+Multigrabadora Digital Recargable
+2603.2
+Electrodomesticos.txt
+83801
+CEFACLOR 125 MG SUSP
+ 37.4
+AlamacenMedicinas.txt
+7300476
+Autoradio MEX BT3150U
+1191.3
+Electrodomesticos.txt
+985869
+GALLETAS CREMAX DE NIEVE VAINILLA_416GR
+ 26.76
+Abarrotes.txt
+68610
+CALCITRIOL 0.25MCG 50 CAP
+ 51.85
+AlamacenMedicinas.txt
+996518
+PAN INTEGRAL WONDER MEDIANO_475GR
+ 19.89
+Abarrotes.txt
+82528
+LORATADINA T/10 10MG
+ 19.55
+AlamacenMedicinas.txt
+31311
+METILPREDNISOLONA 500MG
+ 65.45
+AlamacenMedicinas.txt
+39172
+IBUPROFENO 400MG T10
+ 41.65
+AlamacenMedicinas.txt
+4995581
+Galaxy Note 8.0
+2653.1
+Electrodomesticos.txt
+86476
+KETOTIFENO C/30
+ 11.05
+AlamacenMedicinas.txt
+3316530
+Deshumedecedor DM-190H
+2941.7
+Electrodomesticos.txt
+92517
+ISOCONAZOL CR 20GR GI
+ 11.9
+AlamacenMedicinas.txt
+2056726
+Reproductor DVD Portatil
+3767.8
+Electrodomesticos.txt
+1520309
+Refrigeradora Door in Door
+4079.4
+Electrodomesticos.txt
+4444793
+Rack Giratorio 32/60"
+2418.7
+Electrodomesticos.txt
+2812868
+Impresora Monocromatica WorkForce M205
+2371.5
+Electrodomesticos.txt
+654696
+ALUBIA GRANDE.
+ 33.22
+Abarrotes.txt
+42856
+FELODIPINO 5 MG 20T
+ 10.2
+AlamacenMedicinas.txt
+3045576
+Campana Extractora Venus Plus
+3077.6
+Electrodomesticos.txt
+48039
+TRAMADOL 100MG 5AMP
+ 11.9
+AlamacenMedicinas.txt
+81695
+LECHE DE MAGNESIA 180ML
+ 15.3
+AlamacenMedicinas.txt
+503577
+SAL DE AJO McCORMICK_1.16KG
+ 50.88
+Abarrotes.txt
+3956122
+Televisor Ultra HDTV
+1110.1
+Electrodomesticos.txt
+61039
+NISTATINA GI C/12 TAB
+ 78.2
+AlamacenMedicinas.txt
+86828
+FENAZOPIRIDINA 100 MG C/20 TAB
+ 32.3
+AlamacenMedicinas.txt
+7040082
+Congeladora Conservador Vertical 476 Lts.
+2682.7
+Electrodomesticos.txt
+981528
+AGUA NIAGARA_500ML
+ 5.64
+Abarrotes.txt
+89325
+DIMENHIDRINATO 24 T 50MG
+ 79.05
+AlamacenMedicinas.txt
+3732644
+Lavadora Automatica
+3272.4
+Electrodomesticos.txt
+22232
+LEVETIRACETAM
+ 69.7
+AlamacenMedicinas.txt
+508364
+GALLETAS LORS SNACKS MARINELA_75GR
+ 9.54
+Abarrotes.txt
+77203
+ONDANSETRON 8MG C10T
+ 80.75
+AlamacenMedicinas.txt
+8180049
+Radio CD/DVD - TV
+4037.5
+Electrodomesticos.txt
+9732818
+Refrigeradora CoolStyle 281A Steel
+3387.7
+Electrodomesticos.txt
+8986346
+Campana Extractora
+ 35.97
+Electrodomesticos.txt
+332659
+NECTAR GOOD DEFENSAS_500ML
+ 11.36
+Abarrotes.txt
+170867
+FRIJOLES PUERCOS LILIS_500GR
+ 16.26
+Abarrotes.txt
+1515580
+Cocina Empotrable Glassy Plus
+2907.9
+Electrodomesticos.txt
+423818
+BEBIDA NARANJA BEBERE_470ML
+ 6.72
+Abarrotes.txt
+912986
+YOGHURT CON DURAZNO LALA_1KG
+ 25.15
+Abarrotes.txt
+522048
+LECHE DE COCO CALAHUA_500ML
+ 13.88
+Abarrotes.txt
+16813
+VANCOMICINA 500MG SOL INY
+ 5.95
+AlamacenMedicinas.txt
+146168
+FLAN LALA SABOR VAINILLA_100GR
+ 5.88
+Abarrotes.txt
+96881
+GABAPENTINA 300 MG C/15
+ 7.65
+AlamacenMedicinas.txt
+88266
+PREDNISONA 20MG C30 TAB GI
+ 73.95
+AlamacenMedicinas.txt
+7294139
+Televisor LED FULL HD 3D
+1092.9
+Electrodomesticos.txt
+7072969
+Centro de Lavado Electrico
+2579.7
+Electrodomesticos.txt
+4919718
+Vinera
+3664.9
+Electrodomesticos.txt
+8411420
+Cocina a gas Pro 6550 INOX
+157.01
+Electrodomesticos.txt
+14075
+CLOTRIMAZOL C/6 CPR VAG
+ 9.35
+AlamacenMedicinas.txt
+30228
+METOPROLOL 20T/100
+ 12.75
+AlamacenMedicinas.txt
+387200
+SOPA MARUCHAN POLLO_12/64GR
+ 66.70
+Abarrotes.txt
+855766
+GALLETAS MARIAS CUETARA_160GR
+ 6.10
+Abarrotes.txt
+6798438
+Mouse Blue Tooth
+2460.1
+Electrodomesticos.txt
+416945
+JUGO JUMEX SURTIDO CAJA_24/355ML
+161.29
+Abarrotes.txt
+7379607
+Cocina a gas Essenza BL
+2953.0
+Electrodomesticos.txt
+30430
+PRUEBA DE EMBARAZO
+ 22.1
+AlamacenMedicinas.txt
+7066269
+Extractor de aire
+3854.4
+Electrodomesticos.txt
+48244
+CLORANFENICOL SOL OFT 10ML
+ 25.5
+AlamacenMedicinas.txt
+5256205
+Camara fotografica 16MP
+2976.4
+Electrodomesticos.txt
+72939
+VITIS VINIFERA (UVA) 60C
+ 76.5
+AlamacenMedicinas.txt
+58259
+SULFADIAZINA DE PLATA CRA 28GR
+ 85
+AlamacenMedicinas.txt
+115657
+MAYONESA BEST FOODS_473ML
+ 30.78
+Abarrotes.txt
+687554
+GALLETAS SURTIDO RICO GAMESA_1.42GR
+ 81.57
+Abarrotes.txt
+3017996
+Mini componente GPX88
+1367.4
+Electrodomesticos.txt
+8112295
+Cocina Empotrable Electrica
+3679.4
+Electrodomesticos.txt
+42053
+TRETINOINA 30G CREMA 0.05%
+ 10.2
+AlamacenMedicinas.txt
+15098
+LISINA CLOHRIDRATO 125MG T10
+ 81.6
+AlamacenMedicinas.txt
+752663
+PURE DE TOMATE DEL MONTE_210GR
+ 5.80
+Abarrotes.txt
+6974361
+Tablets 10.1"
+1872.5
+Electrodomesticos.txt
+68860
+METFORMINA 850MG T30
+ 59.5
+AlamacenMedicinas.txt
+9772855
+Cocina a gas Bahia Can
+4015.9
+Electrodomesticos.txt
+39779
+OMEPRAZOL 20 MG C/14
+ 85
+AlamacenMedicinas.txt
+8460290
+Cocina a gas Fassina Plus
+2423.2
+Electrodomesticos.txt
+57269
+SIMVASTATINA 10 MG C14
+ 34
+AlamacenMedicinas.txt
+269334
+SALSA TERIYAKI KIKKOMAN B.EN GRASA_296ML
+114.41
+Abarrotes.txt
+113017
+CUITLACOCHE MONTEBLANCO_215GR
+ 32.28
+Abarrotes.txt
+606406
+PASTA DE LETRAS KNORR_95GR
+ 8.46
+Abarrotes.txt
+446777
+LICUADO DE YACKA_1LTO
+ 50.81
+Abarrotes.txt
+70226
+CALCIO+VITAMINA D SUSP
+ 39.95
+AlamacenMedicinas.txt
+588034
+LECHE EN POLVO NIDO KINDER_400GR
+ 39.84
+Abarrotes.txt
+991483
+MAIZ POZOLERO EXTRA_1KGR
+ 23.28
+Abarrotes.txt
+46000
+HIDROX--MAGNESIO+ALUMINIO 240ML
+ 50.15
+AlamacenMedicinas.txt
+113212
+SPLASH V8 SURTIDO_40/200ML
+180.58
+Abarrotes.txt
+2302661
+Impresora Led
+2731.6
+Electrodomesticos.txt
+1718952
+Cocina a gas Prestige 60 INOX
+3342.7
+Electrodomesticos.txt
+381239
+SALSA CASERA ENEDELIA_250GR
+ 14.46
+Abarrotes.txt
+8336452
+Impresora Mutifuncional Led Color
+3623.8
+Electrodomesticos.txt
+725215
+BEBIDA DE SOYA ADES GUANABANA_946ML
+ 18.07
+Abarrotes.txt
+3763060
+Televisor LED FULL HD
+2704.1
+Electrodomesticos.txt
+8226898
+Proyector a color
+1160.4
+Electrodomesticos.txt
+84771
+BETAMETASONA CREMA 30GR
+ 39.1
+AlamacenMedicinas.txt
+76596
+CEFADROXILO 250MG SUSP
+ 9.35
+AlamacenMedicinas.txt
+1243590
+Refrigeradora CoolStyle 395N Steel
+1979.0
+Electrodomesticos.txt
+86451
+TRIMEBUTINA 100MG/5ML SUSP
+ 21.25
+AlamacenMedicinas.txt
+30007
+DICLOFENACO SODICO 1MG GTS 5 ML
+ 0.85
+AlamacenMedicinas.txt
+6372640
+Lavadora-Secadora FWD
+2390.5
+Electrodomesticos.txt
+480404
+TANJERINA
+ 5.58
+Abarrotes.txt
+33276
+INDOMETACINA C30
+ 11.05
+AlamacenMedicinas.txt
+5295503
+Laptop Duo 11
+3935.1
+Electrodomesticos.txt
+1257139
+Terma Evolucion Soltu
+2586.0
+Electrodomesticos.txt
+972243
+CHICHARRON BOTANA CON CHAMOY BOLSA
+ 10.92
+Abarrotes.txt
+4469580
+Dispensador de Agua
+4041.3
+Electrodomesticos.txt
+145281
+SOPA MARUCHAN CAMARON_71GR
+ 7.68
+Abarrotes.txt
+22306
+NIMESULIDA 25MG 20ML
+ 76.5
+AlamacenMedicinas.txt
+74924
+TAMSULOSINA 0.4 MG CAPS 20
+ 37.4
+AlamacenMedicinas.txt
+776305
+TOSTADAS HORNEADAS DEL HOGAR_210GR
+ 11.34
+Abarrotes.txt
+695597
+TAMPICO CITRUS PUNCH_3.78LTS
+ 29.35
+Abarrotes.txt
+53846
+CLENBUTEROL .02MG 50T
+ 47.6
+AlamacenMedicinas.txt
+58036
+PENTOXIFILINA 400MG T30
+ 33.15
+AlamacenMedicinas.txt
+70950
+LIDOCAINA 10% 115ML SPRAY
+ 45.05
+AlamacenMedicinas.txt
+94459
+VALPROATO DE MAGNESIO SUSP
+ 53.55
+AlamacenMedicinas.txt
+115340
+MEDIA CREMA NESTLE_1LT
+ 40.80
+Abarrotes.txt
+203580
+PINGUINOS MARINELA_40GR
+ 4.40
+Abarrotes.txt
+39088
+NORFLOXACINO T20 400MG
+ 11.9
+AlamacenMedicinas.txt
+3887384
+Lavavajilla Blue Touch
+2545.5
+Electrodomesticos.txt
+28892
+GLIMEPIRIDA 2MG C30
+ 26.35
+AlamacenMedicinas.txt
+9276288
+Cavba de Vinos GE cap. 34 botellas
+119.18
+Electrodomesticos.txt
+61295
+QUINFAMIDA 100 MG 3TAB
+ 84.15
+AlamacenMedicinas.txt
+36649
+CITALOPRAM 20MG 14T
+ 79.05
+AlamacenMedicinas.txt
+973182
+YOGHURT P/BEBER FRUGGIS FRESA_150GR
+ 5.29
+Abarrotes.txt
+8757609
+Camara de video EOS
+1806.6
+Electrodomesticos.txt
+215839
+VAINILLA MOLINA_500ML
+ 19.26
+Abarrotes.txt
+26484
+DILTIAZEM 30 TAB/30 MG
+ 29.75
+AlamacenMedicinas.txt
+6793955
+Cocina a gas Blogna
+2591.4
+Electrodomesticos.txt
+12388
+PROTEINAS+CREATINA 500 GR 30T
+ 76.5
+AlamacenMedicinas.txt
+95540
+NAPROXENO 500 MG C/10 TAB
+ 28.05
+AlamacenMedicinas.txt
+4194362
+Teclado Inalambrico USB
+2633.0
+Electrodomesticos.txt
+262840
+CONDIMENTO PARA BIRRIA CUCU.
+ 80.95
+Abarrotes.txt
+98679
+DOXICICLINA 100MG 10 CAPS
+ 41.65
+AlamacenMedicinas.txt
+43709
+CEFUROXIMA 250MG SUSP
+ 78.2
+AlamacenMedicinas.txt
+465492
+AGUACATE REGIONAL KG.1.000 GR
+ 26.65
+Abarrotes.txt
+3656863
+Video Filmadora
+1713.5
+Electrodomesticos.txt
+5036411
+Congeladora Side by Side
+2296.2
+Electrodomesticos.txt
+7871231
+Audifonos Stereos
+3270.6
+Electrodomesticos.txt
+5409631
+Radio Reloj Despertador
+819.04
+Electrodomesticos.txt
+33390
+CORTILONA CRA 30GR
+ 28.9
+AlamacenMedicinas.txt
+585614
+SALSA HABANERA ROJA GUACAMAYA_150GR
+ 10.25
+Abarrotes.txt
+2475492
+Terma Solucion
+1907.2
+Electrodomesticos.txt
+28219
+NITAZOXANIDA 200 MG T6
+ 82.45
+AlamacenMedicinas.txt
+8462761
+Horno Microondas con dorador
+1304.9
+Electrodomesticos.txt
+2295884
+Secadora de mano
+3104.6
+Electrodomesticos.txt
+836319
+AMPICILINA PENTREXIL_28CAPS
+170.42
+Abarrotes.txt
+7176045
+Horno Microondas 1.2 p3
+2672.1
+Electrodomesticos.txt
+7392273
+Centro de Lavado a Gas
+2371.9
+Electrodomesticos.txt
+41995
+DIMETICONA SUSP 100MG 30ML
+ 25.5
+AlamacenMedicinas.txt
+8742283
+Cocina a gas FFG3053SL
+3936.8
+Electrodomesticos.txt
+70303
+AZITROMICINA SUSP
+ 72.25
+AlamacenMedicinas.txt
+120779
+CHILE PASILLA MULATO/LARGO_100GR
+ 18.19
+Abarrotes.txt
+5378420
+Mini componente ESX6
+828.94
+Electrodomesticos.txt
+59395
+VITAMINICO GERIATRICO C30
+ 16.15
+AlamacenMedicinas.txt
+9272370
+Video Proyector Power Lite 95
+2552.2
+Electrodomesticos.txt
+2180251
+Cocina a gas FFG3047SL
+3597.9
+Electrodomesticos.txt
+89839
+ACIDO MEFENAMICO 500MG C10 TAB
+ 73.95
+AlamacenMedicinas.txt
+694532
+GELATINA SABOR PIÑA LIGHT LA GLORIA_25GR
+ 8.51
+Abarrotes.txt
+50450
+SERTRALINA 50MG C/14 T
+ 74.8
+AlamacenMedicinas.txt
+77534
+METRONIDAZOL 500 MG T30
+ 38.25
+AlamacenMedicinas.txt
+36208
+ENALAPRIL T/30 10MG
+ 63.75
+AlamacenMedicinas.txt
+479664
+PINA COLADA P/RASPADOS_1.25KG
+ 40.44
+Abarrotes.txt
+76360
+DICLOXACILINA 250 MG C20
+ 32.3
+AlamacenMedicinas.txt
+8220735
+Congeladora Vertical 392 Lts.
+2708.0
+Electrodomesticos.txt
+612613
+SEMILLA DE ACELGA MINA
+ 15.07
+Abarrotes.txt
+37549
+TOPIRAMATO 100MG 20T
+ 44.2
+AlamacenMedicinas.txt
+352743
+AJO GRANULADO DE CALIFORNIA KIRKLAND_51.
+ 65.12
+Abarrotes.txt
+4204462
+Lavadora Semi-Automatica
+1153.0
+Electrodomesticos.txt
+337110
+TEMPRA ES3_12/65
+ 47.99
+Abarrotes.txt
+7728141
+Cocina a gas Marsella
+402.24
+Electrodomesticos.txt
+4939021
+Horno Electrico
+2426.9
+Electrodomesticos.txt
+919626
+MANGO EN REBANADAS LA MORENA_800GR
+ 24.11
+Abarrotes.txt
+619690
+HARINA DE ARROZ DULCE_454GR
+ 21.13
+Abarrotes.txt
+31189
+CEFADROXILO 500MG C/16CAP
+ 40.8
+AlamacenMedicinas.txt
+5513176
+Refrigeradora Linea Gallery
+567.71
+Electrodomesticos.txt
+8314433
+Parlantes portatiles SHOQBOX
+2698.7
+Electrodomesticos.txt
+6355459
+Reproductor DVD Portatil TV 7"
+2685.5
+Electrodomesticos.txt
+448068
+CHAMPINIONES TROCITOS MONTEBLANCO_380GR
+ 18.99
+Abarrotes.txt
+678070
+OREO C/TROZOS DE CHOCOLATE_473ML
+ 25.95
+Abarrotes.txt
+9141279
+Cocina a gas Florencia
+3028.4
+Electrodomesticos.txt
+136525
+CHURROMAIS CON LIMON_38GR
+ 5.62
+Abarrotes.txt
+987655
+NARANJA SIN SEMILLA
+ 10.24
+Abarrotes.txt
+94429
+TIAMAZOL 5MG 20T
+ 52.7
+AlamacenMedicinas.txt
+25684
+DEXAMETASONA 0.5MG T/30
+ 84.15
+AlamacenMedicinas.txt
+19397
+ORLISTAT / 21 CAP 120 MG
+ 37.4
+AlamacenMedicinas.txt
+51148
+PANTOPRAZOL 40MG C/14
+ 56.1
+AlamacenMedicinas.txt
+6127500
+Cocina a gas Praga Quarzo
+3297.0
+Electrodomesticos.txt
+26754
+SILDENAFIL 50MG C/1-TAB
+ 68
+AlamacenMedicinas.txt
+83510
+FUROSEMIDA 40 MG C/20
+ 22.95
+AlamacenMedicinas.txt
+3144123
+Refrigeradora GM-S604ULV
+1173.3
+Electrodomesticos.txt
+59121
+DESLORATADINA 5MG 10T
+ 81.6
+AlamacenMedicinas.txt
+4458018
+Terma de acumulacion
+2934.9
+Electrodomesticos.txt
+949875
+YOGHURT NATURAL LIGHT LALA_1KG
+ 25.86
+Abarrotes.txt
+85865
+PLANTAGO PSYLLIUM 400GR. GI
+ 8.5
+AlamacenMedicinas.txt
+600754
+TABCIN EFERVESCENTES_500.
+ 3.26
+Abarrotes.txt
+3091958
+Cocina a gas Bavaro
+1607.4
+Electrodomesticos.txt
+89528
+CLORMADINONA 2MG 20T
+ 13.6
+AlamacenMedicinas.txt
+379220
+GELATINA JELLO FRAMBUESA_35GR
+ 9.47
+Abarrotes.txt
+578079
+SALSA DE CHILE PERON PURHEPECHA_260GR
+ 14.47
+Abarrotes.txt
+5589442
+Reloj Digital RMM-29
+2771.6
+Electrodomesticos.txt
+7849029
+Mini componente Shake-5
+2990.5
+Electrodomesticos.txt
+45814
+ERITROMICINA 250MG SUSP
+ 35.7
+AlamacenMedicinas.txt
+7434903
+Reproductor BLU-RAY 3D
+3653.6
+Electrodomesticos.txt
+4507510
+Mini componente ESX9
+2701.8
+Electrodomesticos.txt
+294990
+TAKIS SALSA BRAVA_62GR
+ 7.65
+Abarrotes.txt
+586077
+CHILES CHIPOTLES LA COSTENA_380GR
+ 18.53
+Abarrotes.txt
+82469
+GUAYACOL AMPOLLETA 1ML
+ 60.35
+AlamacenMedicinas.txt
+30428
+PROPAFENONA 150 MG/20 TAB
+ 19.55
+AlamacenMedicinas.txt
+1514310
+Refrigeradora No frost
+2259.9
+Electrodomesticos.txt
+3160434
+Campana Extractora modelo Glass
+375.09
+Electrodomesticos.txt
+7231772
+Refrigeradora Side by Side
+936.32
+Electrodomesticos.txt
+147917
+PULPA DE YACKA GASPAR_3KG
+260.75
+Abarrotes.txt
+7088125
+Rack Fijo 26/32"
+3562.4
+Electrodomesticos.txt
+81821
+AMIODARONA 200MG T20
+ 61.2
+AlamacenMedicinas.txt
+1870413
+Parlant Y pedestal PAM-83
+3171.7
+Electrodomesticos.txt
+8122608
+Secadora Modelo Italica
+1914.1
+Electrodomesticos.txt
+42861
+BENCIDAMIDA CRA 5% 60GR
+ 23.8
+AlamacenMedicinas.txt
+9575885
+Videojuego TW 4
+794.14
+Electrodomesticos.txt
+11592
+TERBINAFINA 1% CRA 20 GR
+ 68
+AlamacenMedicinas.txt
+2825662
+Cocina a gas Pro 6300 INOX
+1060.6
+Electrodomesticos.txt
+663586
+JARABE DE MAMEY_1.25KG
+ 45.49
+Abarrotes.txt
+823465
+TE DE MANZANILLA NEBO_24/1GR
+ 13.81
+Abarrotes.txt
+767925
+GALLETAS SUAVICREMAS FRESA_158GR
+ 13.85
+Abarrotes.txt
+68730
+MELOXICAM 7.5 MG C/14
+ 0.85
+AlamacenMedicinas.txt
+41379
+FLUNARICINA 10 MG T20
+ 1.7
+AlamacenMedicinas.txt
+674198
+SALSA DEMIGLACE KNORR_1.2KG
+135.37
+Abarrotes.txt
+73972
+VITAMINA E 400 MG C90 CAPS
+ 54.4
+AlamacenMedicinas.txt
+84555
+PARACETAMOL 300MG C/5 SUP
+ 4.25
+AlamacenMedicinas.txt
+948901
+CHAMOY ROSSY_4LTS
+ 40.72
+Abarrotes.txt
+2381038
+Cocina Empotrable Petra
+2544.6
+Electrodomesticos.txt
+7978867
+Cocina a gas Rubi 2
+3699.0
+Electrodomesticos.txt
+68346
+TOLBUTAMIDA 50T 500MG
+ 10.2
+AlamacenMedicinas.txt
+825701
+AJO EN POLVO McCORMICK_595GR
+ 80.74
+Abarrotes.txt
+36711
+TIBOLONA 2.5MG 30T
+ 84.15
+AlamacenMedicinas.txt
+468560
+HARINA DE TRIGO SELECTA_1KG
+ 12.05
+Abarrotes.txt
+6080614
+Impresore Mutifuncional Expression XP-211
+3510.8
+Electrodomesticos.txt
+17645
+KETOKONAZOL CRA 30GR
+ 22.95
+AlamacenMedicinas.txt
+65985
+LAMOTRIGINA 100MG TAB 28
+ 79.9
+AlamacenMedicinas.txt
+49756
+PREDNISOLONA 5MG SOL OFT 5 ML
+ 52.7
+AlamacenMedicinas.txt
+2928672
+Televisor UHD TV
+1625.3
+Electrodomesticos.txt
+5373115
+Refrigeradora CoolStyle 311N Steel
+3243.5
+Electrodomesticos.txt
+5917521
+Secadora Electrica FAQE7001LW
+1804.2
+Electrodomesticos.txt
+60888
+CAPTOPRIL 25MG 30T
+ 7.65
+AlamacenMedicinas.txt
+96031
+CETIRIZINA 10 MG TABS C/10
+ 45.9
+AlamacenMedicinas.txt
+53200
+VITAMINA+OMEGA 3 30T
+ 68.85
+AlamacenMedicinas.txt
+73174
+VITAMINA P/DIABETICOS 30T
+ 41.65
+AlamacenMedicinas.txt
+58252
+KETOTIFENO SOL 120ML
+ 34.85
+AlamacenMedicinas.txt
+1445254
+Calentador electrico instantaneo
+180.65
+Electrodomesticos.txt
+86681
+HIDROCLOROTIAZIDA 25 MG 20TAB
+ 8.5
+AlamacenMedicinas.txt
+516653
+SEMILLAS DE CHILE HABANEROMANZANO.3GR
+ 15.31
+Abarrotes.txt
+37007
+DIFENHIDRAMINA 250MG JBE 120ML
+ 47.6
+AlamacenMedicinas.txt

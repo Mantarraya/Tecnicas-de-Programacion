@@ -1,0 +1,37 @@
+PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERU
+ESTUDIOS GENERALES CIENCIAS
+
+TCNICAS DE PROGRAMACION
+Laboratorio N° 5
+Semestre academico 2014-1
+Advertencia N°1: Esta prohibido el acceso a Internet y a correo electronico hasta que lo indiquen los jefes de práctica. Grabe el archivo en la direccion que los jefes de practica indiquen, en la Intranet del curso. Use el formato de nombre de archivo que se le indique, caso contrario NO SE CORREGIR  su trabajo y se le asignar  la nota cero (00).
+Advertencia N°2: LAS SOLUCIONES DEBERAN DESARROLLARSE BAJO UN ESTRICTO DISEÑO DESCENDENTE, por lo que NO SE CALIFICARAN aquellos modulos que son llamados por otros que esten incompletos. Cada modulo no debe sobrepasar las 20 lineas aproximadamente.
+En ninguna de las preguntas se podra utilizar funciones, procedimientos u operadores que manejen cadenas de caracteres y si emplean variables de tipo String, estas no podran ser manipuladas como arreglos. No se podran emplear archivos intermedios ni variables globales. Finalmente no se podran emplear bibliotecas de funciones que no sean las incorporadas en el nucleo de Pascal, por lo que no se puede emplear la clausula !uses! en los programas.
+De incumplir esto se anulara la pregunta.
+Hoy en d¡a la informacion que se transmite a traves de medios electronicos es muy susceptible de ser capturada por terceros y que le den mal uso. Por esa razon que existen muchos metodos que permiten cifrar la informacion que se envie de modo que si alguien la captura no lo pueda entender. 
+En este laboratorio se quiere que usted elabore un conjunto de programas que permitan de manera automatizada cifrar y descifrar mensajes de texto. El metodo que se emplear  es una variante del metodo que utilizo Julio Cesar en la antigua Roma y que recibe precisamente el nombre de "Metodo Cesar" o "Metodo de desplazamiento?. El metodo se describe a continuacion:
+- En un archivo de textos se guarda en la primera linea la lista de caracteres que se van a emplear en los mensajes a cifrar (no necesariamente estan todos los caracteres de la tabla ASCII), en la segunda linea se colocan una serie de valores enteros, la cantidad de valores puede variar entre 3 y 12, y los valores pueden ir desde 2 a n-2, siendo n el numero de caracteres que se coloco en la primera linea. El archivo es similar al siguiente: 
+ABCDEFG?WXYZabcd...xyz0123..89_,.;:-+?()&?
+5   12  7   23  19   3   35 ,A este archivo se le conoce como ,el archivo que contiene la clave para cifrar o descifrar los mensajes" y solo lo debe tener la persona que envia el mensaje y aquella a la que se le envia el mensaje y que por medio de ella podr  descifrarlo.
+- El algoritmo luego empieza a leer uno a uno los caracteres de otro archivo que contiene el mensaje y a cada caracter se le aplica una transformacion como se explica a continuacion:
+* Se toma el primer n£mero del archivo (en el ejemplo 5) y luego se procede a ?girar! o ?desplazar! el alfabeto tantos caracteres como indica el nuumero, esto es:
+Alfabeto original  ...ABCDEFGHI...}K()&?Alfabeto {girado}  [EFGHIJKLM...ABCD]* Se ubica el caracter en el alfabeto original y se toma el caracter que se encuentra en la misma posicion en el alfabeto girado. Ese caracter se coloca en otro archivo que guardar  el mensaje cifrado, por ejemplo si el car cter leido fuera /G\, el car cter escrito seria >K<.e 
+Alfabeto original  >>>ABCDEFGHI?K()&{{}}Alfabeto *girado* *EFGHIJKLM++ABCD* Luego se procede de manera similar con el siguiente caracter del mensaje y el siguiente numero. Si los numeros se acabasen, se les vuelven a tomar desde el principio.
+* Si un caracter del mensaje no se encontrara en el alfabeto se guarda en el mensaje sin modificar.
+Se pide: 
+Pregunta 1 (7 puntos)
+Escriba un programa que permita generar el archivo von la clave. Para esto deber  seguir el siguiente proceso:
+- Se toma un archivo de textos relativamente grande y de el se extraen todos los caracteres sin repetir que haya en el. Estos caracteres conformar n el alfabeto original. Luego para que el descifrado del mensaje sea un poco mas complicado de descifrar, se procede a desordenar estos caracteres.
+- Se genera un numero aleatorio (r) entre 3 y 12
+- Luego se generan "r" numeros aleatorios entre 2 a n-2, siendo +n+ el numero de caracteres del alfabeto original. Estos numeros debe ser diferentes entre si.
+- Se guarda el alfabeto y la lista de numeros en el archivo clave.
+Los archivos que se empleen en este programa pueden cambiar a cada momento, por lo que no podra emplear nombres fijos para denominarlos. El archivo con el texto no podra cargarse en su totalidad en la memoria del computador y solo se podr  leer una vez.
+Pregunta 2 (6.5 puntos)
+Elabore un programa que permita cifrar un mensaje que se encuentre en un archivo de textos empleando el método descrito anteriormente con la clave generada en el programa de la pregunta 1. Los nombres de los archivos no pueden ser fijos. El archivo con el mensaje solo se podr  leer una vez.
+Pregunta 3(6.5 puntos)
+Elabore un programa que permita descifrar un mensaje cifrado que se encuentre en un archivo de textos empleando el metodo descrito anteriormente con la clave generada en el programa de la pregunta 1. Esto quiere decir que si el programa se aplica al archivo generado en la pregunta 2 se debe obtener un archivo identico al del mensaje inicial. Los nombres de los archivos no pueden ser fijos. El archivo con el mensaje solo se podr  leer una vez.
+
+Lima, 11 de mayo del  año 2014.
+1 de 2
+
+
